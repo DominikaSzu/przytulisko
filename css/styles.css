@@ -1,21 +1,42 @@
+nav.navbar, .navbar-brand {
+	font-size: 1.2em;
+}
 
 .about-us {
 	text-align: justify;
 }
 
+.about-us-info h3 {
+	text-align: center;
+}
+
+.about-us-img {
+	width: 200px;
+	height: 200px;
+	margin: 20px auto;
+}
+
 /* Small devices (landscape phones, 576px and up) */
 @media screen and (min-width: 576px) { 
-
+	.about-us-img {
+		width: 270px;
+		height: 270px;
 }
 
 /* Medium devices (tablets, 768px and up) */ 
 @media (min-width: 768px) { 
+	.about-us {
+		flex-wrap: nowrap;
+	}
 
+	.about-us-img {
+		margin: 20px 20px 20px auto;
+	}
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
-	
+
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
