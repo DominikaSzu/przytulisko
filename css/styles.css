@@ -8,6 +8,11 @@ nav.navbar, .navbar-brand {
 	margin: 20px auto;
 }
 
+#map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+}
+
 /* Small devices (landscape phones, 576px and up) */
 @media screen and (min-width: 576px) { 
 	.about-us-img {
