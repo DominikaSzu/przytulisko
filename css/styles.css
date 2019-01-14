@@ -17,6 +17,10 @@ nav.navbar, .navbar-brand {
     width: 100%;
 }
 
+.dog-img {
+	width: 15px;
+}
+
 .contact {
 	flex-direction: column;
 	justify-content: center;
