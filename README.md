@@ -2,7 +2,7 @@
 
 Website project for a animal shelter in Dębica. 
 
-##Code dependencies
+## Code dependencies
 
 This project was created thanks to the following code dependencies:
 * [Bootstrap 4](https://getbootstrap.com/)
